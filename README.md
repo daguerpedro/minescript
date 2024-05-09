@@ -8,4 +8,3 @@ mod that comes in two flavors: one for [Forge](https://files.minecraftforge.net/
 ## How to use  
 Open your `\.minecraft\` instance folder which is running minescript, go to `/minescript/` and place the desired `.py` script there.  
 Start Minecraft, join the desired server/world and type `\ls` to display all commands, the desired script should appear there.  
-Try running then, example: `\clear` (Should execute clear script)
